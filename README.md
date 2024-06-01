@@ -1,5 +1,9 @@
 # Temporal.io Development Server
 
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/InfinityFlowApp/docker-temporal-dev-server/release.yml)](https://github.com/InfinityFlowApp/docker-temporal-dev-server/actions?query=branch%3Amain)
+[![GitHub Release](https://img.shields.io/github/v/release/InfinityFlowApp/docker-temporal-dev-server)](https://github.com/InfinityFlowApp/docker-temporal-dev-server/releases)
+[![GitHub License](https://img.shields.io/github/license/InfinityFlowApp/docker-temporal-dev-server)](https://github.com/InfinityFlowApp/docker-temporal-dev-server?tab=MIT-1-ov-file)
+
 This repository contains Dockerfiles for setting up the Temporal.io Development Server in two variants:
 
 1. Generic: A flexible configuration suitable for general purposes.
